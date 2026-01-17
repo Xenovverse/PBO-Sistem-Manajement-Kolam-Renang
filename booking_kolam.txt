@@ -1,0 +1,326 @@
+═══════════════════════════════════════════
+         STRUK BOOKING KOLAM RENANG        
+═══════════════════════════════════════════
+ID Booking    : BK0001
+Nama Pemesan  : Dimas Andreansyah
+Kontak        : 081234556789
+Member ID     : M001
+Jenis Member  : Platinum
+Diskon Member : 20%
+───────────────────────────────────────────
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Kapasitas     : 100 orang
+Luas Kolam    : 50.0 m²
+───────────────────────────────────────────
+Waktu         : 2026-01-12 09:00
+Durasi        : 2 jam
+Jumlah Orang  : 1 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+───────────────────────────────────────────
+TOTAL BIAYA   : Rp 600.000
+═══════════════════════════════════════════
+
+═══════════════════════════════════════════
+         STRUK BOOKING KOLAM RENANG        
+═══════════════════════════════════════════
+ID Booking    : BK0001
+Nama Pemesan  : Moh Wahyuidn Huda
+Kontak        : 082326470004
+Member ID     : M002
+Jenis Member  : Gold
+Diskon Member : 15%
+───────────────────────────────────────────
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Kapasitas     : 100 orang
+Luas Kolam    : 50.0 m²
+───────────────────────────────────────────
+Waktu         : 2026-01-15 09:00
+Durasi        : 2 jam
+Jumlah Orang  : 3 orang
+Sewa Pelatih  : Tidak
+Sewa Peralatan: Tidak
+───────────────────────────────────────────
+TOTAL BIAYA   : Rp 340.000
+═══════════════════════════════════════════
+
+═══════════════════════════════════════════
+         STRUK BOOKING KOLAM RENANG        
+═══════════════════════════════════════════
+ID Booking    : BK0002
+Nama Pemesan  : gevan
+Kontak        : 0834564324
+Member ID     : M003
+Jenis Member  : Silver
+Diskon Member : 10%
+───────────────────────────────────────────
+Kolam         : Kolam Terapi
+Nama Kolam    : Kolam Terapi Sehat
+Kapasitas     : 20 orang
+Luas Kolam    : 10.0 m²
+───────────────────────────────────────────
+Waktu         : 2026-01-12 09:00
+Durasi        : 2 jam
+Jumlah Orang  : 20 orang
+Sewa Pelatih  : Tidak
+Sewa Peralatan: Tidak
+───────────────────────────────────────────
+TOTAL BIAYA   : Rp 1.821.600
+═══════════════════════════════════════════
+
+╔══════════════════════════════════════════════════╗
+║          STRUK BOOKING KOLAM RENANG              ║
+║           AQUA PARADISE SWIMMING POOL           ║
+╚══════════════════════════════════════════════════╝
+
+Booking ID    : BK00001
+Status        : ✅ Confirmed
+Waktu Pesan   : 11/01/2026 21:56
+──────────────────────────────────────────────────
+Nama Pemesan  : Dimas Andreansyah
+Kontak        : 0812345567754
+Email         : dimasandre112@gmail.com
+
+┌─ INFORMASI MEMBER ─────────────────────────────┐
+│ ID Member     : M001
+│ Nama          : Ahmad Santoso
+│ Tier          : Platinum
+│ Diskon Member : 20%
+│ Poin Saat Ini : 155 pts
+└────────────────────────────────────────────────┘
+
+┌─ DETAIL KOLAM ─────────────────────────────────┐
+│ Jenis         : Kolam Olympic
+│ Nama Kolam    : Kolam Olympic A
+│ Kode          : OLY-A
+│ Kapasitas     : 100 orang
+│ Luas          : 50.0 m²
+│ Kedalaman     : 180-200 cm
+│ Suhu Air      : 27.0°C
+└────────────────────────────────────────────────┘
+
+┌─ JADWAL & LAYANAN ─────────────────────────────┐
+│ Tanggal       : 12 January 2026
+│ Waktu Mulai   : 08:30 WIB
+│ Waktu Selesai : 11:30 WIB
+│ Durasi        : 3 jam
+│ Jumlah Orang  : 10 orang
+│ Sewa Pelatih  : ✓ Ya
+│ Sewa Peralatan: ✓ Ya
+└────────────────────────────────────────────────┘
+
+┌─ CATATAN ──────────────────────────────────────┐
+│ sudah booking ya
+└────────────────────────────────────────────────┘
+
+╔══════════════════════════════════════════════════╗
+║              RINCIAN BIAYA                       ║
+╠══════════════════════════════════════════════════╣
+║ Biaya Kolam              : Rp       1.730.000 ║
+║ Diskon Member (20%)      : Rp        -346.000 ║
+║ Biaya Admin (2%)         : Rp          27.680 ║
+║ Pajak (10%)              : Rp         138.400 ║
+╠══════════════════════════════════════════════════╣
+║ TOTAL BAYAR              : Rp       1.550.080 ║
+╚══════════════════════════════════════════════════╝
+
+┌─ FASILITAS TERMASUK ───────────────────────────┐
+│ ✓ 8 Lajur Standard Olympic
+│ ✓ Sistem Timing Otomatis
+│ ✓ Starting Block
+│ ✓ Papan Skor Digital
+│ ✓ Ruang Ganti Premium
+│ ✓ Loker Pribadi
+│ ✓ Area Pemanasan
+└────────────────────────────────────────────────┘
+
+          Terima kasih atas kepercayaan Anda!
+          Hubungi: 021-12345678 | info@aqua.com
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00001
+Nama          : dimas
+Kontak        : 08647
+
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Tanggal       : 12 January 2026
+Waktu         : 05:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 5 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+Promo         : NEWMEM25
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 862.400
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00001
+Nama          : Aditra Fajar Sabri Dirta
+Kontak        : 085537945
+
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Tanggal       : 12 January 2026
+Waktu         : 07:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 5 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+Promo         : EARLYBIRD
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 918.400
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00001
+Nama          : Dava Trista Argyatama
+Kontak        : 086654367765
+
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Tanggal       : 13 January 2026
+Waktu         : 07:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 4 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+Promo         : EARLYBIRD
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 862.400
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00002
+Nama          : aditra fajar sabri dirta
+Kontak        : 0855646853
+
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Tanggal       : 14 January 2026
+Waktu         : 09:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 4 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 1.142.400
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00003
+Nama          : Dimas Adreansyah
+Kontak        : 08665435685
+
+Kolam         : Kolam Wahana
+Nama Kolam    : Kolam Wahana
+Tanggal       : 17 January 2026
+Waktu         : 08:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 8 orang
+Sewa Pelatih  : Tidak
+Sewa Peralatan: Tidak
+Promo         : WKND15
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 462.444
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00004
+Nama          : Dava Trista Argyatama
+Kontak        : 086654367765
+
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Tanggal       : 13 January 2026
+Waktu         : 07:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 4 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+Promo         : EARLYBIRD
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 862.400
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00001
+Nama          : Moh Wahyudin Huda
+Kontak        : 085537945
+
+Kolam         : Kolam Olympic
+Nama Kolam    : Kolam Olympic A
+Tanggal       : 12 January 2026
+Waktu         : 07:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 5 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+Promo         : EARLYBIRD
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 918.400
+══════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════╗
+║       STRUK BOOKING KOLAM RENANG                ║
+╚══════════════════════════════════════════════════╝
+
+ID Booking    : BK00001
+Nama          : dirta
+Kontak        : 0535435346346
+
+Kolam         : Kolam Terapi
+Nama Kolam    : Kolam Terapi
+Tanggal       : 13 January 2026
+Waktu         : 06:00 WIB
+Durasi        : 2 jam
+Jumlah Orang  : 1 orang
+Sewa Pelatih  : Ya
+Sewa Peralatan: Ya
+Promo         : NEWMEM25
+
+──────────────────────────────────────────────────
+TOTAL BAYAR   : Rp 789.600
+══════════════════════════════════════════════════
+
+
